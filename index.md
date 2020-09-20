@@ -8,3 +8,13 @@ First Header | Second Header
 ------------ | -------------
 ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png)
 (https://drive.google.com/drive/folders/1GWAPLyqXnGJNboMcyx6rQi6ZV-FTwpqV?usp=sharing) Download | (https://drive.google.com/drive/folders/1GWAPLyqXnGJNboMcyx6rQi6ZV-FTwpqV?usp=sharing) Download |[Download](https://drive.google.com/drive/folders/1GWAPLyqXnGJNboMcyx6rQi6ZV-FTwpqV?usp=sharing) Download
+
+<div> 
+  ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points]
+</div>
+<div> 
+  ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points]
+</div>
+<div> 
+  ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points](https://i.imgur.com/VdZctOB.png) | ![Joe Biden 4 Essential Points]
+</div>
